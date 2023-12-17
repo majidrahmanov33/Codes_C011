@@ -1,0 +1,283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"Sa",
+				"Sadiq"
+			],
+			[
+				"Ag",
+				"Agazade"
+			],
+			[
+				"Azim",
+				"Azimov"
+			],
+			[
+				"Ali",
+				"Aliyev"
+			],
+			[
+				"Ma",
+				"Madjidli"
+			],
+			[
+				"H",
+				"Hasanzada"
+			],
+			[
+				"A",
+				"Azimzade"
+			],
+			[
+				"Is",
+				"Ismayilzada"
+			],
+			[
+				"An",
+				"Anday"
+			],
+			[
+				"I",
+				"Ibrahimov"
+			],
+			[
+				"El",
+				"Elvin"
+			],
+			[
+				"Hasa",
+				"Hasanova"
+			],
+			[
+				"Nu",
+				"NULL"
+			],
+			[
+				"R",
+				"Reshid"
+			],
+			[
+				"Sh",
+				"Shikhiyev"
+			],
+			[
+				"M",
+				"Mikayilov"
+			],
+			[
+				"K",
+				"Kanan"
+			],
+			[
+				"S",
+				"Sideifzade"
+			],
+			[
+				"Mu",
+				"Muhammed"
+			],
+			[
+				"Ab",
+				"Abbasov"
+			],
+			[
+				"J",
+				"Jeyhun"
+			],
+			[
+				"F",
+				"Farajullayev"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/faxmishok/Desktop/PW8_Fahmin_Guliyev/ex6_c.c",
+		"/home/faxmishok/Desktop/PW8_Fahmin_Guliyev/ex6_b.c",
+		"/home/faxmishok/Desktop/PW8_Fahmin_Guliyev/ex6a_2.c",
+		"/home/faxmishok/Desktop/PW8_Fahmin_Guliyev/ex6a_1b.c",
+		"/home/faxmishok/Desktop/PW8_Fahmin_Guliyev/ex6a_1a.c",
+		"/home/faxmishok/Desktop/PW8_Fahmin_Guliyev/ex6a_3.c",
+		"/home/faxmishok/Desktop/PW8_Fahmin_Guliyev/fig07_24.c",
+		"/home/faxmishok/Desktop/list.sql",
+		"/home/faxmishok/Desktop/ex6a_1b.c",
+		"/home/faxmishok/Desktop/ex6a_1.c",
+		"/home/faxmishok/Desktop/ex6a_2.c",
+		"/home/faxmishok/Desktop/ex1.c",
+		"/home/faxmishok/Desktop/france.c",
+		"/home/faxmishok/Desktop/ferid.sh",
+		"/home/faxmishok/Desktop/sqrt.c",
+		"/home/faxmishok/Desktop/CC2_2016-2017_S02/ex22.c",
+		"/home/faxmishok/Desktop/database_france.c",
+		"/home/faxmishok/Desktop/hey.c",
+		"/home/faxmishok/Desktop/fig0512",
+		"/home/faxmishok/Desktop/C_UFAZ_L0/28feb.class/count.cond.c",
+		"/home/faxmishok/Desktop/C_UFAZ_L0/5mar.class/#include<stdio.h>",
+		"/home/faxmishok/Desktop/math.c",
+		"/home/faxmishok/Desktop/yus.c",
+		"/home/faxmishok/Desktop/nese.sql",
+		"/home/faxmishok/Desktop/C_Programmes_WINDOWS/string.c",
+		"/home/faxmishok/Desktop/fibofibo.c",
+		"/home/faxmishok/Desktop/sad"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fig11_07.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
